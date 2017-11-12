@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as p
 import matplotlib.pyplot as plt
 import pandas as pd
 import mglearn
